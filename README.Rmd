@@ -12,6 +12,10 @@ knitr::opts_chunk$set(echo = TRUE)
 This is a simple package to demonstrate my new knowlage of R packages creation. 
 It based on the previous projects from the Advanced R Programming class.
 
+## Installation 
+```{r eval = FALSE}
+devtools::install_github('https://github.com/Denis-png/arp.package.git)
+```
 ## Functionality
 
 With this package you can process raw .rds and .nc data for a different reasons.
