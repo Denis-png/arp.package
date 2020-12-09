@@ -7,6 +7,12 @@ This is a simple package to demonstrate my new knowlage of R packages
 creation. It based on the previous projects from the Advanced R
 Programming class.
 
+## Installation
+
+``` r
+devtools::install_github('https://github.com/Denis-png/arp.package.git)
+```
+
 ## Functionality
 
 With this package you can process raw .rds and .nc data for a different
@@ -50,11 +56,11 @@ functions.(Taken from other project)
 
 <div class="figure">
 
-<img src="Rplot.png" alt="Sulfur dioxide pollution in Norilsk" width="596" />
+<img src="Rplot.png" alt="(Sulfur dioxide pollution in Norilsk)" width="596" />
 
 <p class="caption">
 
-Sulfur dioxide pollution in Norilsk
+(Sulfur dioxide pollution in Norilsk)
 
 </p>
 
